@@ -13,8 +13,11 @@
 * [🪄 서버와의 통신](#🪄-서버와의-통신)
 * [⚒️ 기술 스택](#⚒️-기술-스택)
 
+<br>
 
 ## 💼 팀원 소개
+
+<br>
 
 <table>
     <tbody>
@@ -43,11 +46,15 @@
     </tbody>
 </table>
 
-### 🤝 융합 구조도
+<br>
+
+## 🤝 융합 구조도
+
+<br>
 
 <img src="./images/fusion_construction.jpg" width="70%">
 
-### 👨‍💻 AI 팀 역할
+#### 👨‍💻 AI 팀 역할
 
 <table>
     <tbody>
@@ -66,13 +73,16 @@
     </tbody>
 </table>
 
+<br>
+
 ## 💡 프로젝트 소개
 
-### ✏️ 메타인지 소개
+
+#### ✏️ 메타인지 소개 
 
 <img src="./images/metatraining.jpg" width="70%">
 
-### 🧠 주제 선정 배경
+#### 🧠 주제 선정 배경
 
 <img src="./images/background.jpg" width="70%">
 
@@ -84,11 +94,15 @@
 
 > [출처: 전교 1등은 알고 있는 ‘공부에 대한 공부’](https://news.kbs.co.kr/news/pc/view/view.do?ncd=2889718)
 
+<br>
+
 ## ✍ 주요 기능 소개
+
+<br>
 
 <img src="./images/functions.jpg" width="70%">
 
-### 1️⃣ 글 작성 전
+#### 1️⃣ 글 작성 전
 
 1. **최신 이슈가 반영된 주제 5개 추천** 👩‍💻`김나래` 👨‍💻`이승현`
 * **작동 조건**: USER가 카테고리를 클릭할 때 
@@ -110,7 +124,7 @@
     * prompt 결과에 `"`(따옴표)가 중복으로 적용되어 출력됨.<br>
     ➡️ `replace`함수로 전처리 과정을 거침.
 
-### 2️⃣ 글 작성 중
+#### 2️⃣ 글 작성 중
 
 1. **의도 분류 챗봇** 👨‍💻`이승현`
 * **작동 조건**: USER가 채팅창에 입력한 경우
@@ -166,7 +180,7 @@
 * **작동 조건**: USER가 챗봇 아이콘을 클릭하는 경우
 * **이슈 및 해결과정**<br>
 
-### 3️⃣ 글 작성 후
+#### 3️⃣ 글 작성 후
 
 1. **완성된 글의 제목 추천** 👨‍💻`원예찬`
 * **작동 조건**: USER가 챗봇 아이콘을 클릭하는 경우
@@ -181,9 +195,15 @@
 ➡️ 비용부담이 상당할 것으로 예상되어 지속적인 서비스와 맞춤형 서비스로 구체화 하기 위해서는 자체적인 LLM을 구축하여 서비스해야 하는 것이 장기적으로 유리하다고 판단.
 * 프롬프트, 사용자 입력, 대화 내역, 출력 등을 수집하고 DB에 저장함.
 
+<br>
+
 ## 🪄 서버와의 통신
 
+<br>
+
 <img src="./images/server.jpg" width="70%">
+
+<br>
 
 ## ⚒️ AI 기술 스택
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -194,13 +214,16 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Beautifulsoup](https://img.shields.io/badge/Beautifulsoup-white?style=for-the-badge&logo=&logoColor=white)
 
+<br>
+
 ## 👫 협업 툴
 
-### 👥 회의
+#### 👥 회의
+
 
 <img src="./images/schedule.jpg" width="70%">
 
-### 📆 간트 차트
+#### 📆 간트 차트
 
 <img src="./images/gantt_chart.jpg" width="70%">
 
