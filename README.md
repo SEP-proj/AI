@@ -148,6 +148,7 @@
     * **작동 조건**: USER가 자유대화라고 의도를 분류한 경우
     * **이슈 및 해결과정**<br>
     ☝️Point! USER가 챗봇의 결과를 그대로 복붙하지 않고 직접 쓸 수 있게 해야 한다.
+
         <details>
         <summary>SYSTEM 기본설정</summary>
         <div markdown="1">
