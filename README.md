@@ -2,7 +2,6 @@
 
 ### 🎥 시연 영상 보러가기(<a href="https://youtu.be/PF1W-fF4AwQ">Click!</a>) 
 ### 📙 발표자료 보러가기(<a href="./Meta_Training_꿈인지_메타인지.pdf">Click!</a>)
-### 📂 Google Drive 보러가기(<a href="https://drive.google.com/drive/folders/1oDagv1dsbvrkFJas_DQgVjtNZfi8g8iW">Click!</a>)
 
 
 <img src="./images/thumbnail.jpg" width="70%">
